@@ -1,1 +1,2 @@
-# auto-repair-shop-JDBC Mini Project
+# auto-repair-shop
+# JDBC Mini Project
