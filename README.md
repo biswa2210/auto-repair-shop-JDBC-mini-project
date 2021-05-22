@@ -102,7 +102,7 @@ Such error handling easy searching and safer security of storing data is only be
 
 <a href="pics/shop4.png"><img src="pics/shop4.png" width="800" height= "300"></a>
 
-<a href="pics/shop5.png"><img src="pics/shop5png" width="800" height= "300"></a>
+<a href="pics/shop5.png"><img src="pics/shop5.png" width="800" height= "300"></a>
 
 <a href="pics/shop6.png"><img src="pics/shop6.png" width="800" height= "300"></a>
 
