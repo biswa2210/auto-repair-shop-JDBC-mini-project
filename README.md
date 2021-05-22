@@ -94,31 +94,31 @@ Such error handling easy searching and safer security of storing data is only be
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="shop1.png"><img src="shop1.png" width="800" height= "300"></a> 
+<a href="pics/shop1.png"><img src="pics/shop1.png" width="800" height= "300"></a> 
      
-<a href="shop2.png"><img src="shop2.png" width="800" height= "300"></a>
+<a href="pics/shop2.png"><img src="pics/shop2.png" width="800" height= "300"></a>
 
-<a href="shop3.png"><img src="shop3.png" width="800" height= "300"></a>
+<a href="pics/shop3.png"><img src="pics/shop3.png" width="800" height= "300"></a>
 
-<a href="shop4.png"><img src="shop4.png" width="800" height= "300"></a>
+<a href="pics/shop4.png"><img src="pics/shop4.png" width="800" height= "300"></a>
 
-<a href="shop5.png"><img src="shop5png" width="800" height= "300"></a>
+<a href="pics/shop5.png"><img src="pics/shop5png" width="800" height= "300"></a>
 
-<a href="shop6.png"><img src="shop6.png" width="800" height= "300"></a>
+<a href="pics/shop6.png"><img src="pics/shop6.png" width="800" height= "300"></a>
 
-<a href="shop7.png"><img src="shop7.png" width="800" height= "300"></a>
+<a href="pics/shop7.png"><img src="pics/shop7.png" width="800" height= "300"></a>
 
-<a href="shop8.png"><img src="shop8.png" width="800" height= "300"></a>
+<a href="pics/shop8.png"><img src="pics/shop8.png" width="800" height= "300"></a>
 
-<a href="shop9.png"><img src="shop9.png" width="800" height= "300"></a>
+<a href="pics/shop9.png"><img src="pics/shop9.png" width="800" height= "300"></a>
 
-<a href="shop10.png"><img src="shop10.png" width="800" height= "300"></a>
+<a href="pics/shop10.png"><img src="pics/shop10.png" width="800" height= "300"></a>
 
-<a href="shop11.png"><img src="shop11.png" width="800" height= "300"></a>
+<a href="pics/shop11.png"><img src="pics/shop11.png" width="800" height= "300"></a>
 
-<a href="shop12.png"><img src="shop12.png" width="800" height= "300"></a>
+<a href="pics/shop12.png"><img src="pics/shop12.png" width="800" height= "300"></a>
 
-<a href="shop13.png"><img src="shop13.png" width="800" height= "300"></a>
+<a href="pics/shop13.png"><img src="pics/shop13.png" width="800" height= "300"></a>
 
 </div>
 
