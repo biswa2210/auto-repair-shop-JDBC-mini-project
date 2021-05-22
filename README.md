@@ -23,17 +23,17 @@
   
  A car rental is a system that can be used temporarily for a fee during a specified period. Getting a rental car helps people get around despite the fact they do not have access to their own personal vehicle or don’t own a vehicle at all. The individual who needs a car must contact a rental car company and contact out for a vehicle. This system increases customer retention and simplify vehicle and staff management. 
 Aims and Objectives:
-•	To produce a Java based database connected (JDBC) software system that allow customer data entry and reserve a particular model of car for a specified period of time and effectively manage their car rental system
-•	To ease handling customers rented record.
+ - To produce a Java based database connected (JDBC) software system that allow customer data entry and reserve a particular model of car for a specified period of time and effectively manage their car rental system
+ - To ease handling customers rented record.
 Benefits it need to provide:
-	The database relational model should be clear enough and easily understood and flexible to use.
-	The software must help in back office administration by streamlining and standardising the procedures.
-	The hourly time slots allocation must be provided.
-	Customer’s authenticity must be kept in mind.
-	Data when required for any particular customer when searched should immediately pop up.
-	The relational schema of the database connected with the project must be easy enough to understand.
-	Repetition of data records must not be entertained.
-	Record handling should be easy. 
+ - The database relational model should be clear enough and easily understood and flexible to use.
+ - The software must help in back office administration by streamlining and standardising the procedures.
+ - The hourly time slots allocation must be provided.
+ - Customer’s authenticity must be kept in mind.
+ - Data when required for any particular customer when searched should immediately pop up.
+ - The relational schema of the database connected with the project must be easy enough to understand.
+ - Repetition of data records must not be entertained.
+ - Record handling should be easy. 
  
 </div>
 
@@ -106,7 +106,7 @@ f.	Automatic update:
 
 JDBC Connectivity:
 We have successfully established a connection with the relation database model and created a new database called “garage_records” using mysql .With the specified root route and in the specified location (here localhost ) with particular username and password we have established a smooth connection with our java project. Handling records and searching for them becomes easier which such database management system.
- We used a table “car_rent” in our database and created and array “carnos[]” in order to check if multiple records of same model of car is being entered the entry is being declined stating that the above model is being already in rent. 
+We used a table “car_rent” in our database and created and array “carnos[]” in order to check if multiple records of same model of car is being entered the entry is being declined stating that the above model is being already in rent. 
 Such error handling easy searching and safer security of storing data is only being established with the help of this JDBC connectivity.
 
 </div>
