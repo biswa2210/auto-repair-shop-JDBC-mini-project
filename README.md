@@ -1,4 +1,4 @@
-# AUTO-REPAIR-SHOP-JDBC-MINI-PROJECT :star_struck:
+# AUTO-REPAIR-SHOP-JDBC-MINI-PROJECT :star_struck: :nut_and_bolt: :hammer: :date: :credit_card: :computer:
 
 [![Generic badge](https://img.shields.io/badge/database-management%20system-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/java%20-programming-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/idea-intellij-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sql-8.0-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/JDK-version%2016-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/mysql%20connector%20jar-external%20library-critical)](https://shields.io/)
 <BR>
@@ -94,11 +94,31 @@ Such error handling easy searching and safer security of storing data is only be
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="jdbc1.PNG"><img src="jdbc1.PNG" width="800" height= "280"></a> 
+<a href="shop1.png"><img src="shop1.png" width="800" height= "300"></a> 
      
-<a href="jdbc2.PNG"><img src="jdbc2.PNG" width="800" height= "280"></a>
+<a href="shop2.png"><img src="shop2.png" width="800" height= "300"></a>
 
+<a href="shop3.png"><img src="shop3.png" width="800" height= "300"></a>
 
+<a href="shop4.png"><img src="shop4.png" width="800" height= "300"></a>
+
+<a href="shop5.png"><img src="shop5png" width="800" height= "300"></a>
+
+<a href="shop6.png"><img src="shop6.png" width="800" height= "300"></a>
+
+<a href="shop7.png"><img src="shop7.png" width="800" height= "300"></a>
+
+<a href="shop8.png"><img src="shop8.png" width="800" height= "300"></a>
+
+<a href="shop9.png"><img src="shop9.png" width="800" height= "300"></a>
+
+<a href="shop10.png"><img src="shop10.png" width="800" height= "300"></a>
+
+<a href="shop11.png"><img src="shop11.png" width="800" height= "300"></a>
+
+<a href="shop12.png"><img src="shop12.png" width="800" height= "300"></a>
+
+<a href="shop13.png"><img src="shop13.png" width="800" height= "300"></a>
 
 </div>
 
