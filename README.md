@@ -58,10 +58,30 @@ Benefits it need to provide:
 
 ## Folder Structure :point_down:
 ```bash
-JDBC-STUDENT-RECORD-SYSTEM
-     ├── .settings
-     |       └── org.eclipse.jdt.core.prefs
-
+AUTO-REPAIR-SHOP-JDBC-MINI-PROJECT
+     ├── .idea
+     |      ├── libraries
+     |      |        └── mysql-connector-java_8_0_23.iml
+     |      ├── description.html
+     |      ├── encodings.xml
+     |      ├── misc.xml
+     |      ├── modules.xml
+     |      └── project-template.xml
+     ├── out/production/AUTO REPAIR SHOP/com
+     |       ├── Carrepair
+     |       |       ├── ConnectionProvider.class
+     |       |       ├── ConnectionMethods.class
+     |       |       └── customer.class
+     |       └── Menu
+     |               └── Main.class
+     ├── Src/com
+     |       ├── Carrepair
+     |       |       ├── ConnectionProvider.java
+     |       |       ├── ConnectionMethods.java
+     |       |       └── customer.java
+     |       └── Menu
+     |               └── Main.java
+     └── AUTO REPAIR SHOP.iml
 ```                       
 
 ## Making :point_down:
