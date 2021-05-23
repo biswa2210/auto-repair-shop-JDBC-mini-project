@@ -14,7 +14,22 @@
 ## About :point_down: 
 
 <div align="justified">
-  
+More than two-third of automotive customers indicate that Service
+Convenience is a determining in selecting a brand or purchasing from a Specific 
+dealership Consequently, Customer Service and service management is of vital 
+relevance to ensure ongoing Customer loyalty and retention and ultimately, 
+dealer Profitability.
+Auto repair shop Management enables efficient Service order Processing 
+designed for any given number of orders per day .It includes Service requests 
+and Scheduling Optimization of techicans tools, and parts as well as their 
+deployment and scheduling . User friendly interfaces provides ease of use and 
+the integration technology ensure a seamless and smooth business. Service 
+monitoring and analysis increases the Visibility in Overall fixed Operations and 
+helps increases service Capacity utilization efficiency and decreased operating 
+cost.
+Recreation Vehicle service technician inspect, test, service, and replace every 
+system installed in a recreation Vehicle within the particular day.
+Both intervals are equally important for properly marinating your Vehicle 
 </div>
 
 ## Purpose :point_down:
@@ -46,16 +61,85 @@ Benefits it need to provide:
 ## Applications :point_down:
 
 <div align="justified">
-  
+ Non-functional requirements:-
+It describes aspects of the system that are concerned with how the system provides the 
+functional requirements. They are:
+a. Security:
+The subsystem should provide a high level of security and integrity of the data held 
+by the system, only authorized personnel of the system can gain access to the 
+system’s secured page on the system.
+b. Performance and Response Time:
+The system should have high performance rate when executing user’s input and 
+should be able to provide the response within a short time span usually seconds for 
+highly complicated task and 20 to 25 seconds for less complicated task.
+c. Error handling:
+Error should be considerably minimized and an appropriate error message that 
+guides the user to recover from an error should be provided. Validation of user’s 
+input is highly essential. Also the standard time taken to recover from an error 
+should be 15 to 20 seconds.
+d. Availability: 
+This system should always be available for access at 24 hours, 7 days a week. Also in 
+the occurrence of any major system malfunctioning , the system should be available 
+in 1 to 2 working days , so that the business process is not severely affected.
+e. Ease of use: 
+Considered the level of knowledge possessed by the user of this system , a simple 
+but quality user interface should be developed to make it easy to understand and 
+required less trainin 
 </div>
 
 ## Future Scopes :point_down:
 
 <div align="justified">
-  
+In a nutshell, it can be summarized that the future scope of the project 
+circles around maintaining information regarding :-
+ We can add printer in future.
+ We can give more advance software for Auto Repair 
+Shop Management including more facilities.
+ We will host the platform on online servers to make it 
+accessible worldwide Integrate multiple load balancers 
+to distribute the loads of the system.
+ Create the master and slave database structure to 
+reduce the overload of the database queries.
+ Implement the backup mechanism for taking backup of 
+codebase and database on regular basis on different 
+servers.
+The above mentioned points are the enhancements which can be done 
+to increase the applicability and usage of this project. Here we can 
+maintain the records of cars. 
+Enhancements can be done to maintain all the cars, owners, payments 
+etc. We have left all the options open so that if there is any other future 
+requirement in the system by the user for the enhancement of the 
+system then it is possible to implement them. In the last we would like 
+to thanks all the persons involved in the development of the system 
+directly or indirectly. We hope that the project will serve its purpose for 
+which it is develop there by underlining success of process  
 </div>
 
+## Conclusion :point_down:
 
+Our project is only a humble venture to satisfy the needs to manage their 
+project work. Several user friendly coding have also adopted. This 
+package shall prove to be a powerful package in satisfying all the 
+requirements of the auto repair shop. The objective of software planning 
+is to provide a frame work that enables the manger to make reasonable 
+estimates made within a limited time frame at the beginning of the 
+software project and should be updated regularly as the project 
+progresses.
+The package was designed in such a way that future modifications can 
+be done easily. The following conclusions can be deduced from the 
+development of the project.
+ Automation of the entire system improves the efficiency.
+ It provides a friendly graphical user interface which proves to be 
+better when compared to the existing system.
+ It gives appropriate access to the authorized users depending on 
+their permissions
+ It effectively overcomes the delay in communications.
+ Updating of information becomes so easier.
+ System security, data security and reliability are the striking 
+features.
+ The System has adequate scope for modification in future if it is 
+necessary.
+Finally, the system is implemented and tested according to test cases
 ## Folder Structure :point_down:
 ```bash
 AUTO-REPAIR-SHOP-JDBC-MINI-PROJECT
