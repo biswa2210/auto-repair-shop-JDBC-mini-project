@@ -26,6 +26,10 @@ Recreation Vehicle service technician inspect, test, service, and replace every 
 There would always be unnecessary consumption of time while entering records and retrieving records. One more problem was that it was very difficult to find errors while entering the records. Once the records were entered it was very difficult to update these records. The reason behind it is that there is lot of information to be maintained and have to be kept in mind while running the business. For this reason we have provided features Present system is partially automated (computerized), actually existing system is quite laborious as one has to enter same information at three different places. **Here in this project we can add sustomers, display whole record, search particular customer information, delete any record, update any phone number in auto-repair-shop system.**
 </div>
 
+## AUTO REPAIR SYSTEM JDBC DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=u3bWltp11sc&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0&index=10">Click here to watch</a>
+
+## JAVA PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=bCoFqFb76Jc&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0">Click here to watch</a>
+
 ## Options in this system :point_down:
 
  - Adding Customers<br>
@@ -174,7 +178,6 @@ Such error handling easy searching and safer security of storing data is only be
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="pics/shop1.png"><img src="pics/shop1.png" width="800" height= "300"></a> 
      
 <a href="pics/shop2.png"><img src="pics/shop2.png" width="800" height= "300"></a>
 
